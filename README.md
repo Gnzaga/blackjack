@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # blackjack
 Ryan has requested us make him a blackjack game - so we will, with random and private sessions all in your browser
->>>>>>> 06e72a3955c2b998ebb817abe2fb6f9af05a2f37
+
